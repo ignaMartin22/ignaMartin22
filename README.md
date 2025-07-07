@@ -1,10 +1,6 @@
 
 <h1 align="center"><b>Hola! Soy Ignacio Martin </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 <br>
 
@@ -18,8 +14,8 @@
 <br>
 
 - Estudio la carrera de Analista Programador Universitario (APU)
-- Actualmente manejo lenguajes de backend como Java, Javascript, c++ y Python
-- Estoy aprendiendo HTML, CSS y distintos frameworks
+- Actualmente manejo lenguajes de backend como Java, Javascript, Typescript 
+- Manejo Frameworks como Angular, Sprintboot y Express.js
 
 <br><br>
 
